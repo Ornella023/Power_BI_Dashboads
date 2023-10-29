@@ -1,6 +1,6 @@
 # Power_BI_Dashboads
 
-Some analyses conducted on Power BI
+Some analysis conducted on Power BI
 
 => Any suggestions to improve my dashboards are very welcome
 
@@ -14,6 +14,6 @@ Some analyses conducted on Power BI
 
 The datasets used come from various websites:
 
->>  Food & Beverages sales analysis: UDEMY
+>>  Food & Beverages Sales Analysis: UDEMY
 
 >>  World Population Evolution : KAGGLE
