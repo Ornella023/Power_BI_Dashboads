@@ -14,6 +14,8 @@ Some analysis conducted on Power BI
 
 The datasets used come from various websites:
 
+>> Call Center Analysis : Group Project (Master)
+
 >>  Food & Beverages Sales Analysis: UDEMY
 
 >>  World Population Evolution : KAGGLE
